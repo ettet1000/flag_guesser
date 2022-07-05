@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 9 6"><clipPath id="c"><path d="M0 0l4.5 3L0 6" id="b"/></clipPath><clipPath id="a"><path d="M0 0h9v6H0z"/></clipPath><g clip-path="url(#a)"><path d="M0 0v6h9V0z" fill="#001489"/><path d="M0 0v3h9V0z" fill="#e03c31"/><g stroke-width="2" stroke="#fff"><path d="M0 0l4.5 3L0 6m4.5-3H9" id="d"/><use xlink:href="#b" stroke="#ffb81c" clip-path="url(#c)"/></g><use xlink:href="#d" fill="none" stroke="#007749" stroke-width="1.2"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 450 300" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 225 0 L 225 300 L 0 300 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 0 L 225 150 L 0 300 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="450" height="300" style="fill:rgb(0%,7.843137%,53.72549%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.843137%,23.529412%,19.215686%);fill-opacity:1;" d="M 0 0 L 0 150 L 450 150 L 450 0 Z M 0 0 "/>
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 0 L 4.5 3 L 0 6 M 4.5 3 L 9 3 " transform="matrix(50,0,0,50,0,0)"/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,72.156863%,10.980392%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 0 L 4.5 3 L 0 6 " transform="matrix(50,0,0,50,0,0)"/>
+</g>
+</g>
+<path style="fill:none;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,46.666667%,28.627451%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 0 L 4.5 3 L 0 6 M 4.5 3 L 9 3 " transform="matrix(50,0,0,50,0,0)"/>
+</g>
+</svg>

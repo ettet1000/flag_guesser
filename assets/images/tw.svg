@@ -1,1 +1,12 @@
-<svg width="900" height="600" viewBox="-60 -40 240 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect x="-60" y="-40" width="100%" height="100%" fill="#fe0000"/><rect x="-60" y="-40" width="50%" height="50%" fill="#000095"/><path id="a" d="M8 0L0 30-8 0l8-30M0 8l30-8L0-8l-30 8" fill="#fff"/><use xlink:href="#a" transform="rotate(30)"/><use xlink:href="#a" transform="rotate(60)"/><circle r="17" fill="#000095"/><circle r="15" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 450 300" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="450" height="300" style="fill:rgb(99.607843%,0%,0%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,58.431373%);fill-opacity:1;" d="M 0 0 L 225 0 L 225 150 L 0 150 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 127.5 75 L 112.5 131.25 L 97.5 75 L 112.5 18.75 M 112.5 90 L 168.75 75 L 112.5 60 L 56.25 75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 125.492188 82.5 L 84.375 123.714844 L 99.507812 67.5 L 140.625 26.285156 M 105 87.992188 L 161.214844 103.125 L 120 62.007812 L 63.785156 46.875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 120 87.992188 L 63.785156 103.125 L 105 62.007812 L 161.214844 46.875 M 99.507812 82.5 L 140.625 123.714844 L 125.492188 67.5 L 84.375 26.285156 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,58.431373%);fill-opacity:1;" d="M 144.375 75 C 144.375 92.605469 130.105469 106.875 112.5 106.875 C 94.894531 106.875 80.625 92.605469 80.625 75 C 80.625 57.394531 94.894531 43.125 112.5 43.125 C 130.105469 43.125 144.375 57.394531 144.375 75 Z M 144.375 75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 140.625 75 C 140.625 90.53125 128.03125 103.125 112.5 103.125 C 96.96875 103.125 84.375 90.53125 84.375 75 C 84.375 59.46875 96.96875 46.875 112.5 46.875 C 128.03125 46.875 140.625 59.46875 140.625 75 Z M 140.625 75 "/>
+</g>
+</svg>

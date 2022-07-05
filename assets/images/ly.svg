@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480"><path fill="#239e46" d="M0 0h960v480H0z"/><path d="M0 0h960v360H0z"/><path fill="#e70013" d="M0 0h960v120H0z"/><circle cx="480" cy="240" r="60" fill="#fff"/><circle cx="492.132" cy="240" r="52.132"/><path d="M509.175 240l80.7-26.221L540 282.426v-84.852l49.875 68.647z" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 480 240" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="240" style="fill:rgb(13.72549%,61.960784%,27.45098%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 L 480 0 L 480 180 L 0 180 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.588235%,0%,7.45098%);fill-opacity:1;" d="M 0 0 L 480 0 L 480 60 L 0 60 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 270 120 C 270 136.570312 256.570312 150 240 150 C 223.429688 150 210 136.570312 210 120 C 210 103.429688 223.429688 90 240 90 C 256.570312 90 270 103.429688 270 120 Z M 270 120 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 272.132812 120 C 272.132812 134.394531 260.460938 146.066406 246.066406 146.066406 C 231.671875 146.066406 220 134.394531 220 120 C 220 105.605469 231.671875 93.933594 246.066406 93.933594 C 260.460938 93.933594 272.132812 105.605469 272.132812 120 Z M 272.132812 120 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 254.585938 120 L 294.9375 106.890625 L 270 141.214844 L 270 98.785156 L 294.9375 133.109375 Z M 254.585938 120 "/>
+</g>
+</svg>

@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600"><path fill="#006a4e" d="M0 0h1000v600H0z"/><circle cx="450" cy="300" r="200" fill="#f42a41"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 500 300" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="500" height="300" style="fill:rgb(0%,41.568627%,30.588235%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.686275%,16.470588%,25.490196%);fill-opacity:1;" d="M 325 150 C 325 205.226562 280.226562 250 225 250 C 169.773438 250 125 205.226562 125 150 C 125 94.773438 169.773438 50 225 50 C 280.226562 50 325 94.773438 325 150 Z M 325 150 "/>
+</g>
+</svg>

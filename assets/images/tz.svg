@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 72 48"><defs><clipPath id="a"><path d="M0 0h72v48H0z"/></clipPath></defs><path fill="#1eb53a" d="M0 48V0h72z"/><path fill="#00a3dd" d="M72 0v48H0z"/><g clip-path="url(#a)" fill="none"><path stroke="#fcd116" stroke-width="19" d="M0 48L72 0"/><path stroke="#000" stroke-width="13" d="M0 48L72 0"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 450 300" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(11.764706%,70.980392%,22.745098%);fill-opacity:1;" d="M 0 300 L 0 0 L 450 0 Z M 0 300 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,63.921569%,86.666667%);fill-opacity:1;" d="M 450 0 L 450 300 L 0 300 Z M 450 0 "/>
+<path style="fill:none;stroke-width:19;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(98.823529%,81.960784%,8.627451%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 48 L 72 0 " transform="matrix(6.25,0,0,6.25,0,0)"/>
+<path style="fill:none;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 48 L 72 0 " transform="matrix(6.25,0,0,6.25,0,0)"/>
+</g>
+</svg>

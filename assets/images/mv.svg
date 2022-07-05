@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480"><path fill="#D21034" d="M0 0h720v480H0z"/><g fill="#007E3A"><path d="M120 120h480v240H120z"/><circle fill="#FFF" cx="390" cy="240" r="80"/><circle cx="420" cy="240" r="80"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 360 240" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="360" height="240" style="fill:rgb(82.352941%,6.27451%,20.392157%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,49.411765%,22.745098%);fill-opacity:1;" d="M 60 60 L 300 60 L 300 180 L 60 180 Z M 60 60 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 235 120 C 235 142.089844 217.089844 160 195 160 C 172.910156 160 155 142.089844 155 120 C 155 97.910156 172.910156 80 195 80 C 217.089844 80 235 97.910156 235 120 Z M 235 120 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,49.411765%,22.745098%);fill-opacity:1;" d="M 250 120 C 250 142.089844 232.089844 160 210 160 C 187.910156 160 170 142.089844 170 120 C 170 97.910156 187.910156 80 210 80 C 232.089844 80 250 97.910156 250 120 Z M 250 120 "/>
+</g>
+</svg>
