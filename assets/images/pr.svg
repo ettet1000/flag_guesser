@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" fill="#FFF"><path d="M0 0h900v600H0"/><path stroke="#E00" stroke-width="120" d="M0 60h900m0 240H0m0 240h900"/><path fill="#0050F0" d="M0 0v600l520-300"/><path d="M114 382l59-183 59 183L77 269h192"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 450 300" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="450" height="300" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:120;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(93.333333%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 60 L 900 60 M 900 300 L 0 300 M 0 540 L 900 540 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,31.372549%,94.117647%);fill-opacity:1;" d="M 0 0 L 0 300 L 260 150 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 57 191 L 86.5 99.5 L 116 191 L 38.5 134.5 L 134.5 134.5 "/>
+</g>
+</svg>

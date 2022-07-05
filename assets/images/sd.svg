@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600"><path d="M0 0h1200v600H0z"/><path d="M0 0h1200v400H0z" fill="#fff"/><path d="M0 0h1200v200H0z" fill="#d21034"/><path d="M0 0l400 300L0 600z" fill="#007229"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 600 300" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="600" height="300" style="fill:rgb(0%,0%,0%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 600 0 L 600 200 L 0 200 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(82.352941%,6.27451%,20.392157%);fill-opacity:1;" d="M 0 0 L 600 0 L 600 100 L 0 100 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,44.705882%,16.078431%);fill-opacity:1;" d="M 0 0 L 200 150 L 0 300 Z M 0 0 "/>
+</g>
+</svg>

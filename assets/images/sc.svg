@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450"><path d="M0 450h900V0H0z" fill="#d62828"/><path d="M0 450V0h600z" fill="#fcd856"/><path d="M0 450V0h300z" fill="#003f87"/><path d="M0 450h900V150z" fill="#fff"/><path d="M0 450h900V300z" fill="#007a3d"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 450 225" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="450" height="225" style="fill:rgb(83.921569%,15.686275%,15.686275%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,84.705882%,33.72549%);fill-opacity:1;" d="M 0 225 L 0 0 L 300 0 Z M 0 225 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,24.705882%,52.941176%);fill-opacity:1;" d="M 0 225 L 0 0 L 150 0 Z M 0 225 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 225 L 450 225 L 450 75 Z M 0 225 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,47.843137%,23.921569%);fill-opacity:1;" d="M 0 225 L 450 225 L 450 150 Z M 0 225 "/>
+</g>
+</svg>
